@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Spy"
 include(":app")
+include(":coreui")
